@@ -3,7 +3,7 @@ package com.hellokoding.restfulapi.model;
 import javax.persistence.*;
 
 @Entity
-public class Book{
+public class Book {
     private int id;
     private String title;
     private String description;
